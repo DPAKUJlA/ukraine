@@ -1,0 +1,30 @@
+body {
+	 background: url(fon1.jpg) no-repeat; 
+	 background-attachment: fixed;
+	 background-size: 100% 100%;
+}
+P {align = "center";font-size:70 pt; color:white; font-family:"Times New Roman" padding: 50px; }
+#b1 {
+	    background: navy;
+		color: white; 
+               font-size: 20 pt;
+		position: fixed;
+		display: inline-block;
+		margin-right: 1300px;
+                margin-top: 50px;
+} 
+#b1:hover { background: rgb(232,95,76); }
+#b1:active { background: rgb(152,15,0); }
+
+}
+
+img {
+	margin-left: 540px;
+	margin-right: 540px;
+	border: 1px solid black;
+	border-radius: 50px;
+}
+.image:hover {
+	transform: scale(1.2);
+	cursor: pointer;
+

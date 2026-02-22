@@ -1,0 +1,16 @@
+
+body {background: url(ris.jpg);
+      background-attachment: fixed;
+      background-size: 100% 100%;
+}
+
+img {
+	margin-left: 540px;
+	margin-right: 540px;
+	border: 1px solid black;
+	border-radius: 120px;
+}
+.image:hover {
+	transform: scale(1.2);
+	cursor: pointer;
+}

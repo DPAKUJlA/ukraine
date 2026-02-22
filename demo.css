@@ -1,0 +1,5 @@
+.container > section {
+	margin: 0 auto;
+	padding: 1em 3em;
+	text-align: center;
+}

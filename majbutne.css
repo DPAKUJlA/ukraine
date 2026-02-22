@@ -1,0 +1,15 @@
+body {background: url(fon5.jpg);
+      background-attachment: fixed;
+      background-size: 100% 100%;
+}
+
+#b2 {
+	    background: navy;
+		color: white; 
+               font-size: 9pt;
+		position: fixed;
+		display: inline-block;
+		margin-right: 1300px;
+                 margin-top: 30 px;
+}
+
